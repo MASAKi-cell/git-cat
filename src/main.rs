@@ -160,10 +160,3 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 
 
-
-fn main() {
-    let mut a = 1
-    let mut b:i32 = 1
-    const s:i32 = 1
-    println!('s:', {} , a)
-}
